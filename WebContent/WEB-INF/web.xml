@@ -19,6 +19,6 @@
   </context-param>
   <context-param>
     <param-name>dbURL</param-name>
-    <param-value>jdbc:mysql://54.86.203.127:3306/TEST</param-value>
+    <param-value>jdbc:mysql://54.86.203.127:3306/TRAIN</param-value>
   </context-param>
 </web-app>

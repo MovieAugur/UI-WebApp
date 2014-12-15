@@ -17,7 +17,7 @@ Licence: <a href="http://www.os-templates.com/template-terms">Website Template L
 	width:100%;
 	margin-bottom:20px;
 	padding:0;
-	border-bottom:1px solid #DFDFDF;
+	/* border-bottom:1px solid #DFDFDF; */
 	}
 
 #portfolio .fl_left{
@@ -34,6 +34,10 @@ Licence: <a href="http://www.os-templates.com/template-terms">Website Template L
 	padding:0;
 	list-style:none;
 	}
+	
+#portfolio h2{
+	border-bottom: 5px solid #464646;
+}	
 
 #portfolio .fl_left p{
 	margin:12px 0 0 0;
